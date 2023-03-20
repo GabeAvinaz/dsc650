@@ -1,7 +1,7 @@
 ---
 title: Assignment 1
 subtitle: Computer performance, reliability, and scalability calculation
-author: Jane Doe
+author: Gabriel Avinaz
 ---
 
 ## 1.2 
