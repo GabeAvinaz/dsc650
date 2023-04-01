@@ -1,1 +1,5 @@
-format,uncompressed,gzip,snappy
+,format,uncompressed,gzip,snappy
+0,avro file,19646145,1750968,3015899
+1,protocol buffer file,0,30,0
+2,json Schema file,72,79,47
+3,parquet file,1970679,1650202,1947053
