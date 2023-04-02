@@ -3,14 +3,14 @@ syntax = "proto2";
 package dsc650.assignment03;
 
 message Airline {
-    optional int32 airline_id = 1;
+    required int32 airline_id = 1;
     required string name = 2;
     optional string alias = 3;
     optional string iata = 4;
     optional string icao = 5;
     optional string callsign = 6;
     optional string country = 7;
-    optional bool active = 8;
+    required bool active = 8 [default = false];
 }
 
 message Airport {
@@ -33,7 +33,7 @@ message Route {
     optional Airline airline = 1;
     optional Airport src_airport = 2;
     optional Airport dst_airport = 3;
-    optional bool codeshare = 4;
+    required bool codeshare = 4 [default = false];
     optional int32 stops = 5;
     repeated string equipment = 6;
 }
