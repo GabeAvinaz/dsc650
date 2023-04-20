@@ -1,0 +1,20 @@
+images\Image01 - barnabas-lartey-odoi-tetteh-5pGFc1XssnQ-unsplash.jpg
+Predicted:[('n04418357', 'theater_curtain', 0.4265667), ('n10148035', 'groom', 0.15048657), ('n04296562', 'stage', 0.06629443)]
+images\Image02 - carson-arias-7Z03R1wOdmI-unsplash.jpg
+Predicted:[('n12144580', 'corn', 0.82925004), ('n03461385', 'grocery_store', 0.069001734), ('n13133613', 'ear', 0.047845177)]
+images\Image03 - chris-murray-YGzEX5yLKeA-unsplash.jpg
+Predicted:[('n03854065', 'organ', 0.4135437), ('n02804610', 'bassoon', 0.17994459), ('n04429376', 'throne', 0.08640079)]
+images\Image04 - florian-klauer-mk7D-4UCfmg-unsplash.jpg
+Predicted:[('n04505470', 'typewriter_keyboard', 0.786011), ('n04264628', 'space_bar', 0.21350463), ('n04179913', 'sewing_machine', 0.00041820377)]
+images\Image05 - florian-klauer-nptLmg6jqDo-unsplash.jpg
+Predicted:[('n04562935', 'water_tower', 0.38155386), ('n02782093', 'balloon', 0.15957569), ('n04099969', 'rocking_chair', 0.15699895)]
+images\Image06 - ian-dooley-TLD6iCOlyb0-unsplash.jpg
+Predicted:[('n07614500', 'ice_cream', 0.9862098), ('n07836838', 'chocolate_sauce', 0.0023317419), ('n01943899', 'conch', 0.0017338828)]
+images\Image07 - kamran-abdullayev-SCoI5tdGJ_M-unsplash.jpg
+Predicted:[('n09428293', 'seashore', 0.6766016), ('n04435653', 'tile_roof', 0.11591151), ('n03220513', 'dome', 0.03964423)]
+images\Image08 - obi-pixel7propix-SCUPx5far-M-unsplash.jpg
+Predicted:[('n03179701', 'desk', 0.31576914), ('n04118776', 'rule', 0.26920524), ('n04116512', 'rubber_eraser', 0.23627788)]
+images\Image09 - sumit-sourav-eSRtxPd9q1c-unsplash.jpg
+Predicted:[('n09428293', 'seashore', 0.93850696), ('n09421951', 'sandbar', 0.0129406415), ('n09332890', 'lakeside', 0.008623507)]
+images\Image10 - warren-wong-bh4LQHcOcxE-unsplash.jpg
+Predicted:[('n02807133', 'bathing_cap', 0.11702942), ('n03450230', 'gown', 0.085696526), ('n04507155', 'umbrella', 0.07690246)]
