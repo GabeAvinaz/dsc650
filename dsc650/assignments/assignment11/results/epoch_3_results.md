@@ -1,0 +1,10 @@
+--- Generating with seed: "the elder days; but when the kings returned again over the g"
+------ temperature:0.2
+the elder days; but when the kings returned again over the great river and stood to the strength and the shadow the stone of the stars the strength and the stars of the stars of the strength and stood and the stars of the strength and the stone to the shadow of the story of the ring to the stars of the mountain of the strength and the stars of the stream and the stream to the shadow the ring and the story of the strength and the stone of the ring and the s
+------ temperature:0.5
+he story of the strength and the stone of the ring and the south, and the old the enemy the store of the lowers to the ring and had been the great come of the will in to the wizard. the last fear of the woods there was a started the shadowed the borders, and he then i should not are bilbo some we could as a still of and the strong of the mirkwown to the shadow some the going the lord of the moonsing down the shadow southwards the stars. for the stoned the 
+------ temperature:1.0
+ng down the shadow southwards the stars. for the stoned the cuely the was southwards the ring help-lone,, and i amon still still. dences and the night-any way the replite of the minkenative and nich with wismling are somen dark me by in now come on us, and down in the botthisgver. at land yet; and i making. they deln young aneternnor at reas slowly; but i don't dowerstons; and the morning and thef, candvile their longes of anion a love and night,' said gan
+------ temperature:1.2
+, candvile their longes of anion a love and night,' said gandalf. 'forustrope.nigst.
+ that once sated, and then shimesdering all, i crybli, but some then the fatters throkes!v thens caught news nothing e'sh, tlas he should finsry cast to berourself; though be, in you. 'we rines togught, i vaniles, and we may't chisg that the westpre. you sakeowe bygentanteflightser. it has ham concirn the ledors dreadrylasted it. if your belings iy, and alakess grrive! cam
